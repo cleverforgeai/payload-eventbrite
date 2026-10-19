@@ -56,7 +56,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
-    "payload": "^3.0.0",
+    "payload": "^3.91.0",
     "tsx": "^4.19.0",
     "typescript": "^5.7.0",
     "@payloadcms/db-sqlite": "^3.0.0",
