@@ -56,12 +56,12 @@
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
-    "payload": "^3.0.0",
+    "payload": "^3.92.0",
     "tsx": "^4.19.0",
     "typescript": "^5.7.0",
-    "@payloadcms/db-sqlite": "^3.0.0",
-    "eslint": "^10.12.0",
-    "typescript-eslint": "^8.0.0"
+    "@payloadcms/db-sqlite": "^3.92.0",
+    "eslint": "^10.13.0",
+    "typescript-eslint": "^8.72.0"
   },
   "engines": {
     "node": ">=20.9.0"
